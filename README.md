@@ -4,7 +4,7 @@
 <p>
 - Este proyecto resulta como proyecto de un curso hecho en la plataforma Udemy, se trata de la construcción de una pagina web que funciona como sitio de peliculas a modo de mostrar los productos de una pagina, poder crear o agregar nuevas peliculas, editar su información y enviar consultas. </p> 
 <p> - Tambien posee una estructura de Backend construída en Node.js, que utiliza Express para comunicarse con MongoDB como base de datos.</p>
-<img width="100%" src="" alt="banner-ecommerce">
+<img width="100%" src="https://github.com/davidboxler/website_movies_react/blob/master/frontend/public/pantalla.png" alt="banner-ecommerce">
 
 #### Construido con: 
 

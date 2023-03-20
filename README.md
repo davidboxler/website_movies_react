@@ -1,4 +1,4 @@
-<h1>React Ecommerce</h1>
+<h1>React Movies Website</h1>
 <h1>Descripción</h1>
 
 <p>
